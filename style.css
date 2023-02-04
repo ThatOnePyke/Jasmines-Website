@@ -1,3 +1,20 @@
+:root {
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    --text-primary: #b6b6b6;
+    --text-secondary: #ececec;
+    --bg-primary: black;
+    --bg-seconadry: gray;
+}
+body::-webkit-scrollbar {
+
+}
+body::-webkit-scrollbar-track {
+
+}
+body::-webkit-scrollbar-thumb {
+
+}
 .navbar {
     
 }
